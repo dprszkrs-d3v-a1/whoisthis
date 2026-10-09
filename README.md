@@ -1,7 +1,7 @@
 # whoisthis
 Identify (scanner) IP addresses via WHOIS (RDAP) and geolocate them.
-You need to add the GeoLite2-City.mmdb databse. It can be downloaded from the Maxmind website by registering an account.
-MaxMind GeoLite2 (also known as GeoLite) is a free IP geolocation and ASN dataset provided by MaxMind.
+You need to add the GeoLite2-City.mmdb databse. It can be downloaded from the MaxMind website (https://www.maxmind.com/en/home) 
+by registering an account. MaxMind GeoLite2 (also known as GeoLite) is a free IP geolocation and ASN dataset provided by MaxMind.
 
 Key Features and Offerings
 
